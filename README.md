@@ -10,4 +10,4 @@ Vinicius Claudio Souza do Nascimento - 225336
 
 ### Colab
 
-https://colab.research.google.com/gist/igormartinss/9364bce0d10436dbe4054f3a692a9f88/combate.ipynb
+https://colab.research.google.com/drive/1FWsk0Dsx-n627_H9Dwg40yxqYnFZbY_f

@@ -1,4 +1,6 @@
-# Combate
+# SI202A - Resolução de Problemas 1
+
+## Jogo: Combate
 
 ### Integrantes
 Igor Martins Silvério - 217972  
